@@ -7,4 +7,4 @@ A simple snake game wrote for old 8086 processors. This is my assembly language 
 The source code is tested with EMU8086.
 
 ## To Do
-- [ ] Fix transistion animations
+- [ ] Fix transition animations
